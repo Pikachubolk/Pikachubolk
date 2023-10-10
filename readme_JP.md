@@ -1,3 +1,3 @@
-[English/英語](/README.MD)
+[English/英語](README.md)
 
 # こんにちは、Noaです！
