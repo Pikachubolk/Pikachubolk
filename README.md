@@ -7,7 +7,7 @@
 ### Name
 My name is Noa, there is absolutly nothing else.
 
-### Country of Orgin
+### Country of Origin
 I was born an raised in the Netherlands, and no it's not as hot as the nether in minecraft quite the opposite acually.
 
 ### Coding languages i know.
