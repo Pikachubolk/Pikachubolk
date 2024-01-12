@@ -22,5 +22,5 @@ you can check it out at: noabolk.dev
 ## Contact
 
 ### Email
-noabolk@schoolsquid.xyz
+noa@schoolsquid.xyz
 
