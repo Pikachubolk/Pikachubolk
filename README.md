@@ -24,5 +24,3 @@ you can check it out at: noabolk.dev
 ### Email
 noabolk@schoolsquid.xyz
 
-### Twitter
-@noabolk
