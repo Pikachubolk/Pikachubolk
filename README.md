@@ -14,7 +14,7 @@ I was born an raised in the Netherlands, and no it's not as hot as the nether in
 Well I currently know how to code in C#, python, PHP, HTML, Java, and various other languages. if you'd like to learn more feel free to contact me.
 
 ### Portfolio
-you can find lots of infomationabout me on here, and you can also play various minigames and other various things to keep you entertained
+you can find lots of infomation about me on here, and you can also play various minigames and other various things to keep you entertained
 you can check it out at: noabolk.dev
 
 
