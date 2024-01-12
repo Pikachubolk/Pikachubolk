@@ -1,4 +1,4 @@
-[英語/English](/readme.md)
+[英語/English](/README.md)
 
 # こんにちは、Noaです！👋
 
