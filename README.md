@@ -18,7 +18,7 @@ I currently know all of the above somewhat decently
 
 ### Portfolio
 you can find lots of infomation about me on here, and you can also play various minigames and other various things to keep you entertained
-you can check it out at: noabolk.dev
+you can check it out at: pikachubolk.info
 
 ### Other Stats and widgets you might be interested in.
 
