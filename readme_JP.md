@@ -1,3 +1,5 @@
+[English/英語](/README.md) | [Japanese/日本語](/readme_JP.md)
+
 # 👋 こんにちは、私はNoaです！
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pikachubolk&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/pikachubolk)
