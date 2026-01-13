@@ -9,6 +9,23 @@
 - **ポートフォリオ**: [pikachubolk.info](https://pikachubolk.info) – プロジェクト、ミニゲームなどをチェック！
 - **面白い事実**: ゲームとデザインに情熱を持つポリグロット開発者。
 
+## 🎯 プロジェクト
+
+### 公開中
+
+- **[SerikaDev](https://serika.dev)** - 開発者向けの強力なAIプラットフォーム。
+- **[Serika Booru](https://serika.art)** - コミュニティ画像掲示板プラットフォーム。
+- **[Serika Video](https://serika.video)** - 動画共有およびライブストリーミングプラットフォーム。
+- **[Serika Search](https://serika.app)** - プライバシー重視の検索エンジン。
+- **[Serika Downloader](https://serika.lol)** - 様々なプラットフォームから動画をダウンロード。
+- **[Toka](https://toka.serika.dev)** - Serikaコミュニティのためのソーシャルメディアプラットフォーム。
+- **[SerikaAccounts](https://accounts.serika.dev)** - アカウント管理およびアイデンティティサービス。
+
+### 開発中
+
+- **SerikaBrowser** - 次世代のウェブブラウザ。[serika.xyz](https://serika.xyz)
+- **SerikaIDE** - AI支援を統合したコードエディタ。
+
 ## 🛠️ スキル
 
 ### プログラミング言語

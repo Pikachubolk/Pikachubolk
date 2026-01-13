@@ -8,6 +8,23 @@
 - **Portfolio**: [pikachubolk.info](https://pikachubolk.info) – Check out projects, minigames, and more!
 - **Fun Fact**: Polyglot developer with a passion for gaming and design.
 
+## 🎯 Projects
+
+### Live Today
+
+- **[SerikaDev](https://serika.dev)** - Our powerful AI platform for developers.
+- **[Serika Booru](https://serika.art)** - Community image board platform.
+- **[Serika Video](https://serika.video)** - Video sharing and live streaming platform.
+- **[Serika Search](https://serika.app)** - Privacy-focused search engine.
+- **[Serika Downloader](https://serika.lol)** - Download videos from various platforms.
+- **[Toka](https://toka.serika.dev)** - Social media platform for the Serika community.
+- **[SerikaAccounts](https://accounts.serika.dev)** - Account management and identity service.
+
+### In Active Development
+
+- **SerikaBrowser** - Next-generation web browser. [serika.xyz](https://serika.xyz)
+- **SerikaIDE** - Code editor with integrated AI assistance.
+
 ## 🛠️ Skills
 
 ### Programming Languages
