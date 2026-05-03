@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - **From**: Netherlands 🇳🇱 (Cooler than Minecraft's Nether!)
-- **Portfolio**: [pikachubolk.info](https://pikachubolk.info) – Check out projects, minigames, and more!
+- **Portfolio**: [pikachubolk.info](https://pikachubolk.site) – Check out projects, minigames, and more!
 - **Fun Fact**: Polyglot developer with a passion for gaming and design.
 
 ## 🎯 Projects
