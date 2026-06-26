@@ -1,5 +1,5 @@
 [English/英語](/README.md) | [Japanese/日本語](/readme_JP.md)
-# 👋 Hi, I'm Noa!
+# 👋 Hi, I'm Seika!
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pikachubolk&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/pikachubolk)
 
@@ -100,6 +100,6 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=pikachubolk)
 
 ## 📫 Contact
-- **Email**: noa@schoolsquid.xyz
+- **Email**: pikachu@serika.dev
 
-- **Twitter**: [![Twitter Follow](https://img.shields.io/twitter/follow/PikachubolkNEW?logo=twitter&style=for-the-badge)](https://twitter.com/PikachubolkNEW)
+- **Twitter**: [![Twitter Follow](https://img.shields.io/twitter/follow/PikachubolkNEW?logo=twitter&style=for-the-badge)](https://twitter.com/SeikaDev_)
