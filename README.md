@@ -102,4 +102,4 @@
 ## 📫 Contact
 - **Email**: pikachu@serika.dev
 
-- **Twitter**: [![Twitter Follow](https://img.shields.io/twitter/follow/PikachubolkNEW?logo=twitter&style=for-the-badge)](https://twitter.com/SeikaDev_)
+- **Twitter**: [![Twitter Follow](https://img.shields.io/twitter/follow/SeikaDev_?logo=twitter&style=for-the-badge)](https://twitter.com/SeikaDev_)
